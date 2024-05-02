@@ -1,0 +1,22 @@
+/* Aplicar un estilo oscuro al cuerpo del documento */
+body {
+  background-color: #222;
+  color: #ddd; /* Color del texto */
+}
+
+/* Cambiar el color de fondo de los elementos específicos si es necesario */
+/* Por ejemplo, cambiar el color de fondo de las celdas de la tabla */
+td {
+  background-color: #333;
+}
+
+/* Cambiar el color del texto de los enlaces */
+a {
+  color: #aaa;
+}
+
+/* Cambiar el color de fondo de los botones si es necesario */
+button {
+  background-color: #444;
+  color: #ddd; /* Color del texto del botón */
+}
